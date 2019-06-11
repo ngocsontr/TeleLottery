@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1016145813922",
+    "firebase_url": "https://telelottery.firebaseio.com",
+    "project_id": "telelottery",
+    "storage_bucket": "telelottery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016145813922:android:f6afd7b67eae3860",
+        "android_client_info": {
+          "package_name": "org.telegram.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016145813922-qpqlq3bfq6c572go7gh1mo0fejd8thoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs7e1Zpl-UxUqiJAoPNwn9gNb51hk47o0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016145813922-qpqlq3bfq6c572go7gh1mo0fejd8thoq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
